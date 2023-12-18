@@ -1,0 +1,55 @@
+/*
+    MENU MOBILE 
+*/
+@keyframes slideInFromLeft{
+    from{
+        margin-left: -100%;
+    }
+    to{
+        margin-left: 0;
+    }
+}
+
+@keyframes slideOutFromRight{
+    from{
+        margin-left: 0;
+    }
+    to{
+        margin-left: -100%;
+    }
+}
+/*
+    PANIER CLIENT MOBILE 
+*/
+@keyframes slideInFromRight{
+    from{
+        margin-right: -100%;
+    }
+    to{
+        margin-right: 0;
+    }
+}
+
+@keyframes slideOutFromLeft{
+    from{
+        margin-right: 0;
+    }
+    to{
+        margin-right: -100%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
